@@ -1,8 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB
 
 ## Education
+- Mtech-CSE | IIT Bhubaneswar(_Present_)
 - Btech-CSE | Parul University(_May 2023_)								       		
 - Intermediate | Sri Chaitanya Junior College(_May 2019)
 
